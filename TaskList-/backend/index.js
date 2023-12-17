@@ -13,7 +13,7 @@ app.use("/api/task", taskRouter);
 
 const port = 4500;
 const connection_url =
-  "mongodb+srv://kosuriravikanth:Mongo553136@cluster0.cvvip5o.mongodb.net/TaskList";
+  "your mongodb url";
 
 app.listen(port, () => {
   mongoose
