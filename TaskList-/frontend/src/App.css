@@ -1,0 +1,6 @@
+.App{
+    background:linear-gradient(45deg, #a82c10, #4a2b5f, #00bcd4);
+    height: fit-content;
+    min-height: 100vh;
+
+}

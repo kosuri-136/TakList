@@ -1,0 +1,36 @@
+.tasks-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  max-width: 100%;
+  padding: 10px 10px;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 15px;
+}
+.logoutbtn {
+  display: flex;
+  margin-left: auto;
+}
+.spacebtwbtn {
+  margin-left: 20px;
+}
+.task-form {
+  display: flex;
+  align-items: center;
+}
+.task-button {
+  width: fit-content;
+}
+.task-input {
+  outline: none;
+  border: 1px solid gray;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 5px 5px;
+}
+.spinner-border {
+  color: rgb(202, 44, 168);
+}
